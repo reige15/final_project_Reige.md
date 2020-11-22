@@ -14,7 +14,7 @@ My initial sketches are a little rough, but going alone with my outline I would 
 
 
 # One focused on the US 
-![IMG_0520 copy](https://user-images.githubusercontent.com/73552628/99917005-bc16c180-2cdb-11eb-8856-e6e2a0114c12.jpg)
+![IMG_0518 copy](https://user-images.githubusercontent.com/73552628/99917058-f2ecd780-2cdb-11eb-9722-fb326df0cd09.jpg)
 
 
 
