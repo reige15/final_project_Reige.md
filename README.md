@@ -9,8 +9,7 @@
       Setup: Americans are provided information about their personal health
       Conflict: Americans cannot understand or interpret the information
       Resoultion: Americans are left uninformed, confused, and untreated when compared with other developed nations
-      <script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/health-literacy/"><h1>Health Literacy</h1><p>Making Informed Decisions from Misinterpreted Information</p></div>
+[Outline](https://carnegiemellon.shorthandstories.com/health-literacy/index.html)
    
 ## Initial Sketches: 
 ## The Data: 
