@@ -9,7 +9,9 @@
       Setup: Americans are provided information about their personal health
       Conflict: Americans cannot understand or interpret the information
       Resoultion: Americans are left uninformed, confused, and untreated when compared with other developed nations
-      <!-- START SHORTHAND EMBED -->
+    <!-- START SHORTHAND EMBED -->
+
+      <script src=https://code.jquery.com/jquery-1.11.3.min.js></script>
       
 <div class="sh_embed sh-embed-dark" data-sh-embed>
   <div class="sh-embed-bg" aria-hidden="true">
@@ -18,7 +20,7 @@
   <div class="sh-embed-meta">
     <div class="sh-embed-title">Health Literacy</div>
     <div class="sh-embed-subtitle">Making Informed Decisions from Misinterpreted Information</div>
-    <a class="sh-embed-btn" href="https://reige15.github.io/Reige-Portfolio/" data-embed-untouched>Enter</a>
+    <a class="sh-embed-btn" href="https://github.com/reige15/final_project_Reige.md/blob/main/README.md" data-embed-untouched>Enter</a>
   </div>
   <div id="embed_article">
     <article>
@@ -307,7 +309,6 @@
   
       
 <!-- END SHORTHAND EMBED -->
-  
 ## Initial Sketches: 
 ## The Data: 
 ## Method & Medium: 
