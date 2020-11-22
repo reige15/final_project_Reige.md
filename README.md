@@ -10,8 +10,6 @@
       Conflict: Americans cannot understand or interpret the information
       Resoultion: Americans are left uninformed, confused, and untreated when compared with other developed nations
       <!-- START SHORTHAND EMBED -->
-
-      <script src=https://code.jquery.com/jquery-1.11.3.min.js></script>
       
 <div class="sh_embed sh-embed-dark" data-sh-embed>
   <div class="sh-embed-bg" aria-hidden="true">
