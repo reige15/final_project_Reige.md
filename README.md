@@ -10,7 +10,7 @@ High level summary: The Health Literacy Rate in the United States is much lower 
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/health-literacy/"><h1>Health Literacy</h1><p>Making Informed Decisions from Misinterpreted Information</p></div>
    
 ## Initial Sketches: 
-My initial sketches are a little rough, but going alone with my outline I would like at least three main sections: 
+My initial sketches are a little rough, but going aloneg with my outline I would like at least three main sections: 
 
 
 # One focused on the US 
