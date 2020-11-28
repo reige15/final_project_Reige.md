@@ -1,7 +1,7 @@
 ## Final Project Process
 
 
-# Part 1: Health Literacy in The United States, a Leading Social Disparity in Health Care
+# Part I: Health Literacy in The United States, a Leading Social Disparity in Health Care
 
 ## Outline: 
 High level summary: The Health Literacy Rate in the United States is much lower than other developed countries. Through this data visualization I will attempt to show the discrepency by country and metrics that give insight into the problem further. 
@@ -31,5 +31,18 @@ I plan on completing my final project is building my story in a mix of Tableau a
 By collecting my data from the sources listed above, I will be able to create insightful and educational visuals in Tableau. Once I have created these visuals I will put them into Shorthand. I have been thinking about just doing a dashboard in Tableau alone, but I am not sure that will convey a message as well as one with data and words. I think telling a story in Shorthand will overall aid my position to be most successful, whereas just using Tableau I may have to exclude important concepts for the sake of data. 
 
 I want the overall final project to be a progression of a story, and Shorthand seems like the best way to do that from the tools we have used. I also want it to be data driven and visual, meaning Tableau will be useful. I will also have to use a bit of Excel and a PDF --> Excel converter to get the data into Tabealu in the first place as many of my sources do not have OData or any other way to directly link to Tableau. 
+
+## Part II
+# Developed wireframe/storyboard 
+# User Research Protocol 
+What I hope to find during my interviews: 
+Research Questions/Script: 
+Documented Findings: 
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
 
 [Back to Main Page](/Reige-Portfolio/)
