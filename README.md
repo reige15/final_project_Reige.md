@@ -34,6 +34,10 @@ I want the overall final project to be a progression of a story, and Shorthand s
 
 ## Part II
 # Developed wireframe/storyboard 
+
+Updated storyboard: <script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/health-literacy--copy-/"><h1>Health Literacy (COPY)</h1><p>Making Informed Decisions from Misinterpreted Information</p></div>
+
 # User Research Protocol 
 What I hope to find during my interviews: 
 Research Questions/Script: 
