@@ -39,14 +39,33 @@ Updated storyboard: <script src="https://embed.shorthand.com/embed_9.js"></scrip
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/health-literacy--copy-/"><h1>Health Literacy (COPY)</h1><p>Making Informed Decisions from Misinterpreted Information</p></div>
 
 # User Research Protocol 
-What I hope to find during my interviews: 
-Research Questions/Script: 
-Documented Findings: 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
+## Research Questions/Script and what I hope to learn: 
+I am conducting this interview in hope to get clarity on changes my storyboard may need as well as get any feedback. Are you able to see what I sent/am sharing? Great! Thank you for your time with this matter and participation. This should only take about 10 minutes. I will be taking notes while we talk, so sorry for that in advance.  
+
+      
+      What was your main takeaway from the storyboard as it stands now?
+		
+      Were you confused by anything?
+
+		Was anything hard to read or in a font that was hard to see?
+		Do you feel like there is a call to action?
+
+		Do you understand the importance of the topic?
+ 
+		Is there any other feedback you have?
+
+Thank you again for your time. 
+
+## Documented Findings: 
+# The target audience you hope to reach with your story; 
+I want my target audience to be educated people, college level or above who may be able to change the way medical information is conveyed to the public and patients. 
+# Your approach to identifying representative individuals to interview; 
+I interviewed available people who fit in my criteria for my audience. I interviewed my sister who is currently in law school, my mom who is a physician and my friend who is in my program but not this class. This will give me a good insight into what I need to change and what I do well and how my target audience is recieving this information. However, these people may able be bias considering they know me. 
+ 
+# The findings from your interviews; and 
+(make a table of findings and add it here) 
+# Changes you plan on implementing to your visualizations next week to address the issues identified. 
 
 
 [Back to Main Page](/Reige-Portfolio/)
