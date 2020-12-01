@@ -64,8 +64,15 @@ I want my target audience to be educated people, college level or above who may 
 I interviewed available people who fit in my criteria for my audience. I interviewed my sister who is currently in law school, my mom who is a physician and my friend who is in my program but not this class. This will give me a good insight into what I need to change and what I do well and how my target audience is recieving this information. However, these people may able be bias considering they know me. 
  
 # The findings from your interviews; and 
-(make a table of findings and add it here) 
+<img width="767" alt="Interview Results" src="https://user-images.githubusercontent.com/73552628/100763005-a469c800-33c2-11eb-835d-ecea077e4eef.png">
 # Changes you plan on implementing to your visualizations next week to address the issues identified. 
+Since my interview I think I will be changing a few things about my storyboard, they are listed below: 
+
+1. I would like to make the images bigger and probably will keep the begginning format of the words over the images consistent for the entirety of the storyboard so that there is more time to look at the visuals and they are bigger, but then the words will follow and guide to the next image and so on. 
+2. I will be sure to better label my graphs/charts are to be sure that at first glance my audience will understand what is going on 
+3. I will use more easily understod data visualizations to guide my story to the conclusion that is necessary 
+4. I will eliminate one of the graphs that is redundant and also does not add anything (the second graph about the health literacy rate by state)
+5. I will be more explicit in the comparision of health literacy to literacy 
 
 
 [Back to Main Page](/Reige-Portfolio/)
