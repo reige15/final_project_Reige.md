@@ -70,7 +70,8 @@ I interviewed available people who fit in my criteria for my audience. I intervi
 Since my interview I think I will be changing a few things about my storyboard, they are listed below: 
 
   
-      1. I would like to make the images bigger and probably will keep the begginning format of the words over the images consistent for the entirety of the storyboard 	so that there is more time to look at the visuals and they are bigger, but then the words will follow and guide to the next image and so on. 
+      1. I would like to make the images bigger and probably will keep the begginning format of the words over the images consistent for the entirety of the storyboard 	
+      (so that there is more time to look at the visuals and they are bigger, but then the words will follow and guide to the next image and so on) 
       
       2. I will be sure to better label my graphs/charts are to be sure that at first glance my audience will understand what is going on 
       
