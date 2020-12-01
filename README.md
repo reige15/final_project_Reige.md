@@ -47,13 +47,14 @@ I am conducting this interview in hope to get clarity on changes my storyboard m
       What was your main takeaway from the storyboard as it stands now?
 		
       Were you confused by anything?
-
-		Was anything hard to read or in a font that was hard to see?
-		Do you feel like there is a call to action?
-
-		Do you understand the importance of the topic?
- 
-		Is there any other feedback you have?
+      
+      Was anything hard to read or in a font that was hard to see?
+      
+      Do you feel like there is a call to action?
+      
+      Do you understand the importance of the topic?
+      
+      Is there any other feedback you have?
 
 Thank you again for your time. 
 
@@ -68,11 +69,16 @@ I interviewed available people who fit in my criteria for my audience. I intervi
 # Changes you plan on implementing to your visualizations next week to address the issues identified. 
 Since my interview I think I will be changing a few things about my storyboard, they are listed below: 
 
-1. I would like to make the images bigger and probably will keep the begginning format of the words over the images consistent for the entirety of the storyboard so that there is more time to look at the visuals and they are bigger, but then the words will follow and guide to the next image and so on. 
-2. I will be sure to better label my graphs/charts are to be sure that at first glance my audience will understand what is going on 
-3. I will use more easily understod data visualizations to guide my story to the conclusion that is necessary 
-4. I will eliminate one of the graphs that is redundant and also does not add anything (the second graph about the health literacy rate by state)
-5. I will be more explicit in the comparision of health literacy to literacy 
+  
+      1. I would like to make the images bigger and probably will keep the begginning format of the words over the images consistent for the entirety of the storyboard 	so that there is more time to look at the visuals and they are bigger, but then the words will follow and guide to the next image and so on. 
+      
+      2. I will be sure to better label my graphs/charts are to be sure that at first glance my audience will understand what is going on 
+      
+      3. I will use more easily understod data visualizations to guide my story to the conclusion that is necessary 
+      
+      4. I will eliminate one of the graphs that is redundant and also does not add anything (the second graph about the health literacy rate by state)
+      
+      5. I will be more explicit in the comparision of health literacy to literacy 
 
 
 [Back to Main Page](/Reige-Portfolio/)
