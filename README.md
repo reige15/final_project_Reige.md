@@ -101,4 +101,5 @@ This process was very long, I cannot lie. It took me HOURS to figure out how I w
 Here is a link to my shorthand (it is also in [Final Project Product](/Final-Project.md/) ) 
 https://carnegiemellon.shorthandstories.com/health-literacy---part-iii--/index.html
 
+
 [Back to Main Page](/Reige-Portfolio/)
